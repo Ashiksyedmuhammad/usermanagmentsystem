@@ -1,0 +1,36 @@
+.transBack {
+    background: transparent;
+    backdrop-filter: blur(50px);
+    /* height: 80vh; */
+}
+
+.main-back {
+    background-image: url(/static/img/lap.jpg);
+}
+
+.form-control {
+    font-size: 15px;
+    padding: 5px 10px;
+}
+
+.card1 {
+    width: 80%;
+}
+
+.fs-7 {
+    font-size: 13px;
+}
+
+.registerBtn {
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    border: none;
+    outline: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+/* .form-container {
+    overflow: hidden;
+} */
